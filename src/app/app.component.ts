@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'LivroAngular2';
+  title = 'Livro Angular 2';
+  foto: string = 'favicon.ico';
+
 }
